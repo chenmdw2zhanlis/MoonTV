@@ -82,11 +82,11 @@
       "name": "小猫咪资源"
      },
     "yinghua": {
-      "api": "https://thzy1.me/api.php/provide/vod/",
+      "api": "https://thzy1.me/api.php/provide/vod",
       "name": "樱花资源"
      },
     "souALzhiyuan": {
-      "api": "https://api.souavzy.vip/api.php/provide/vod/",
+      "api": "https://api.souavzy.vip/api.php/provide/vod",
       "name": "搜AI资源网"
      },
     "yingba": {
