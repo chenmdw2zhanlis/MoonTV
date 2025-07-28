@@ -88,10 +88,6 @@
     "souALzhiyuan": {
       "api": "https://api.souavzy.vip/api.php/provide/vod",
       "name": "搜AI资源网"
-     },
-    "yingba": {
-      "api": "https://xingba222.com/api.php/provide/vod",
-      "name": "杏吧资源站"
-   }
+     }
   } 
 }
