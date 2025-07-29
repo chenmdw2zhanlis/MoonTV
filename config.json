@@ -88,6 +88,10 @@
     "souALzhiyuan": {
       "api": "https://api.souavzy.vip/api.php/provide/vod",
       "name": "搜AI资源网"
+       },
+    "yiyiwu": {
+      "api": "https://155api.com/api.php/provide/vod",
+      "name": "115资源网"
      }
   } 
 }
