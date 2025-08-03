@@ -34,11 +34,8 @@ const MobileBottomNav = ({ activePath }: MobileBottomNavProps) => {
       icon: Clover,
       label: '综艺',
       href: '/douban?type=show',
-       },
-    {
-      icon: ethical film,
-      label: '伦理',
-      href: '/douban?type=show',
+    },
+    {  
     },
   ];
 
