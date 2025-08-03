@@ -39,7 +39,7 @@ const MobileBottomNav = ({ activePath }: MobileBottomNavProps) => {
     {
       icon: ethical film,
       label: '伦理',
-      href: '/douban?type=ethical film',
+      href: '/douban?type=show',
     },
   ];
 
